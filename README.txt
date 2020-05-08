@@ -1,0 +1,3 @@
+Hi Dr. Moore,
+
+I published my website on GitHub because I found out that WebKit doesn't support webrtc which allows the browser to access the camera. Safari supports this so you can still open it up on the iPad using Safari. You can find the NFT Marker in the directory as "marker.png", from there all you have to is go to my GitHub hosted website at https://yosiah-morgan.github.io and allw the site to access the camera and position sensors.
